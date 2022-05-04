@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\onlinecss"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "deoppm"
+	}
+}
